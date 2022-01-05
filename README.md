@@ -36,7 +36,7 @@ Looks up any shows you have against the subreddit r/PlexTitleCards to find any m
 
 * [Wiki](https://github.com/extrobe/plex_and_media_utilities/wiki/Plex-Title-Card-Finder)
 * [Source](https://github.com/extrobe/plex_and_media_utilities/blob/main/plex_title_card_finder.py)
-
+* [GDrive (for automated downloading)](https://github.com/prasmussen/gdrive) 
 
 ## Plex Meta Manager - Create Films YML File
 Use this file in conjunction with Plex Meta Manager. It helps you create your initial YML file based on your existing custom metadata.
